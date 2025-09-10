@@ -8,6 +8,7 @@ I'm passionate about crafting modern, user-friendly, and impactful mobile applic
 
 ## 🚀 About Me
 <p align="left">
+  
   - 📱 Specializing in <b>mobile app development</b>, with a deep focus on Swift & SwiftU
   
   - 🌍 Based in <b>Da Nang, Vietnam</b>
@@ -111,6 +112,7 @@ Here are some projects I'm proud of:
 <p align="center">
   Thanks for visiting my profile! Feel free to reach out for collaboration or just to chat about tech! 🚀
 </p>
+
 
 
 
