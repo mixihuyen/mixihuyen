@@ -47,18 +47,19 @@ Here are some projects I'm proud of:
 ---
 
 ## 📊 GitHub Stats
-![Huyen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Huyen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mixihuyen&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mixihuyen&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 - ✉️ **Email**: [lehuyen23vn@gmail.com](mailto:lehuyen23vn@gmail.com)  
-- 🌐 **Portfolio**: [your-portfolio-link.com](https://portfolio-mixihuyen.vercel.app/)  
-- 🐦 **Facebook**: [your-x-username](https://www.facebook.com/lehuyen23vn)
+- 🌐 **Portfolio**: [my portfolio](https://portfolio-mixihuyen.vercel.app/)  
+- 🐦 **Facebook**: [facebook](https://www.facebook.com/lehuyen23vn)
 
 ---
 
 ⭐️ *“Code with passion, design with purpose.”*  
 
 Thanks for visiting my profile! Feel free to reach out for collaboration or just to chat about tech! 🚀
+
