@@ -41,7 +41,7 @@ I'm passionate about crafting modern, user-friendly, and impactful mobile applic
 Here are some projects I'm proud of:
 
 - 🚀 **Travel Planner App**  
-  A SwiftUI-based app integrated with Firebase and Weather API to help users plan trips seamlessly.  
+  A SwiftUI-based app integrated with REST API and Weather API to help users plan trips seamlessly.  
   [View Repository](https://github.com/mixihuyen/TravelPlannerApp)
 
 - 🎨 **Portfolio Website**  
@@ -112,6 +112,7 @@ Here are some projects I'm proud of:
 <p align="center">
   Thanks for visiting my profile! Feel free to reach out for collaboration or just to chat about tech! 🚀
 </p>
+
 
 
 
